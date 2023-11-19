@@ -22,8 +22,8 @@ select it:
 create a table:
 
 -   CREATE TABLE KPIS (
-    nome VARCHAR(255),
-    valore INT
+    NOME VARCHAR(255),
+    VALORE INT
     );
 
 check if the table is created:
